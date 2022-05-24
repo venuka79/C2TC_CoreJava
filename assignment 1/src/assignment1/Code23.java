@@ -12,6 +12,7 @@ public class Code23 {
 			}
 			System.out.println();
 		}
+
 	}
 
 }
